@@ -1,4 +1,4 @@
-# inspiration_bot
+# Inspiration_Bot
   A simple discord bot,which is built using python and is hosted on replit.
 
 # Features
