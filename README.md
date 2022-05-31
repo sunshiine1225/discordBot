@@ -1,5 +1,5 @@
 # Inspiration_Bot
-  A simple discord bot,which is built using python and is hosted on replit.
+  A simple discord bot,which is built using python.
 
 # Features
   Greets the user on seeing $hello message.
